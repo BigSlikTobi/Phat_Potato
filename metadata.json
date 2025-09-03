@@ -1,0 +1,5 @@
+{
+  "name": "Potato Diet Coach",
+  "description": "A mobile-first app that helps users with a potato-centric diet. It features meal tracking, AI-powered meal plan generation, supplement recommendations, and a guided conversational coach.",
+  "requestFramePermissions": []
+}
